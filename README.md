@@ -103,14 +103,6 @@ scipy
 
 ---
 
-## 📅 Future Work
-
-* Add real-time forecasting
-* Improve uncertainty estimation
-* Deploy as API / dashboard
-
----
-
 ## 👤 Author
 
 Argjend Bytyçi
