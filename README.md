@@ -57,24 +57,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
----
-
-## ▶️ Usage
-
-Run the full pipeline:
-
-```bash
-python src/training.py
-```
-
-Evaluate models:
-
-```bash
-python src/evaluation.py
-```
-
----
-
 ## 📊 Models Used
 
 | Model       | Type          | Purpose                     |
@@ -105,21 +87,19 @@ python src/evaluation.py
 
 ## 📦 Requirements
 
-* Python 3.9+
-* PyTorch / TensorFlow
-* pandas, numpy
-* scikit-learn
-* statsmodels
-* prophet
-* pyswarms
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+torch     
+statsmodels
+prophet
+pyswarms
 
----
-
-## ⚠️ Limitations
-
-* Limited data availability for Kosovo
-* Sensitivity to extreme weather events
-* High computational cost for deep models
+tqdm
+joblib
+scipy
 
 ---
 
