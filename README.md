@@ -114,9 +114,3 @@ scipy
 ## 👤 Author
 
 Argjend Bytyçi
-
----
-
-## 📜 License
-
-This project is for academic/research purposes.
